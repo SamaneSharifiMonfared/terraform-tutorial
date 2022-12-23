@@ -1,0 +1,1 @@
+{"errorMessage": "Unable to import module 'hello_lambda': No module named 'boto3def'", "errorType": "Runtime.ImportModuleError", "requestId": "4beda396-662e-45d7-9b27-b91e245eeadc", "stackTrace": []}
